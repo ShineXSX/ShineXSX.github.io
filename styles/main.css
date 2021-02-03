@@ -2178,15 +2178,15 @@ body {
     }.box-shadow-wrapper {
       box-shadow: none !important;
     }body {
-      cursor: default;
+      cursor: url('https://cdn.jsdelivr.net/gh/ShineXSX/ShineXSX.github.io@master/media/curs/Arrow.cur'), default;
     }a {
-      cursor: pointer;
+      cursor: url('https://cdn.jsdelivr.net/gh/ShineXSX/ShineXSX.github.io@master/media/curs/Hand.cur'), pointer !important;
     }input, textarea, code {
-      cursor: text;
+      cursor: url('https://cdn.jsdelivr.net/gh/ShineXSX/ShineXSX.github.io@master/media/curs/IBeam.cur'), text !important;
     }code > span.copy-code {
-      cursor: pointer;
+      cursor: url('https://cdn.jsdelivr.net/gh/ShineXSX/ShineXSX.github.io@master/media/curs/UpArrow.cur'), text !important;
     }.post img {
-      cursor: zoom-in;
+      cursor: url('https://cdn.jsdelivr.net/gh/ShineXSX/ShineXSX.github.io@master/media/curs/Sdl.cur'), zoom-in !important;
     }.post img {
-      cursor: zoom-out;
+      cursor: url('https://cdn.jsdelivr.net/gh/ShineXSX/ShineXSX.github.io@master/media/curs/Sv.cur'), zoom-out !important;
     }
