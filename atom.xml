@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinexsx.github.io</id>
     <title>ShineX&apos;s Blog</title>
-    <updated>2021-02-04T14:20:35.872Z</updated>
+    <updated>2021-02-04T14:23:47.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shinexsx.github.io"/>
     <link rel="self" href="https://shinexsx.github.io/atom.xml"/>
@@ -18,9 +18,8 @@
         <link href="https://shinexsx.github.io/post/wo-de-di-yi-pian-wen-zhang/">
         </link>
         <updated>2021-02-04T05:26:43.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="键盘">键盘</h1>
-<p><img src="https://gitee.com/shinexsx/pic/raw/master/20210204221659.png" alt="手指摆放" loading="lazy"><br>
-<img src="https://shinexsx.github.io/post-images/1612448414923.png" alt="手指摆放" loading="lazy"></p>
+        <content type="html"><![CDATA[<h1 id="键盘手指摆放">键盘手指摆放</h1>
+<figure data-type="image" tabindex="1"><img src="https://gitee.com/shinexsx/pic/raw/master/20210204222305.jpg" alt="手指摆放" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
