@@ -2056,14 +2056,18 @@ p > code {
     }body {
       background-color: #eee;
     }.header {
-        width: 960px;
+        width: 80%;
         margin: 0 auto;
       }
 
       .main-continer {
-        width: 960px;
+        width: 80%;
         margin: 0 auto;
       }
+    
+    .post-body {
+      font-size: 14px !important
+    }
     body {
       color: #555;
     }
@@ -2190,15 +2194,15 @@ p > code {
     }.box-shadow-wrapper {
       box-shadow: none !important;
     }body {
-      cursor: url('https://cdn.jsdelivr.net/gh/ShineXSX/ShineXSX.github.io@master/media/curs/Arrow.cur'), default;
+      cursor: url('https://cdn.jsdelivr.net/gh/ShineXSX/ShineXSX.github.io@master/media/curs/default_link.cur'), default;
     }a {
-      cursor: url('https://cdn.jsdelivr.net/gh/ShineXSX/ShineXSX.github.io@master/media/curs/Hand.cur'), pointer !important;
+      cursor: url('https://cdn.jsdelivr.net/gh/ShineXSX/ShineXSX.github.io@master/media/curs/default_normal.cur'), pointer !important;
     }input, textarea, code {
-      cursor: url('https://cdn.jsdelivr.net/gh/ShineXSX/ShineXSX.github.io@master/media/curs/IBeam.cur'), text !important;
+      cursor: url('https://cdn.jsdelivr.net/gh/ShineXSX/ShineXSX.github.io@master/media/curs/default_texto.cur'), text !important;
     }code > span.copy-code {
-      cursor: url('https://cdn.jsdelivr.net/gh/ShineXSX/ShineXSX.github.io@master/media/curs/UpArrow.cur'), text !important;
+      cursor: url('https://cdn.jsdelivr.net/gh/ShineXSX/ShineXSX.github.io@master/media/curs/default_vertical.cur'), text !important;
     }.post img {
-      cursor: url('https://cdn.jsdelivr.net/gh/ShineXSX/ShineXSX.github.io@master/media/curs/Sdl.cur'), zoom-in !important;
+      cursor: url('https://cdn.jsdelivr.net/gh/ShineXSX/ShineXSX.github.io@master/media/curs/default_zoomout.cur'), zoom-in !important;
     }.post img {
-      cursor: url('https://cdn.jsdelivr.net/gh/ShineXSX/ShineXSX.github.io@master/media/curs/Sv.cur'), zoom-out !important;
+      cursor: url('https://cdn.jsdelivr.net/gh/ShineXSX/ShineXSX.github.io@master/media/curs/default_zoomout.cur'), zoom-out !important;
     }
