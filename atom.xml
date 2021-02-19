@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinexsx.github.io</id>
     <title>ShineX&apos;s Blog</title>
-    <updated>2021-02-18T08:12:05.554Z</updated>
+    <updated>2021-02-19T14:32:28.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shinexsx.github.io"/>
     <link rel="self" href="https://shinexsx.github.io/atom.xml"/>
@@ -67,30 +67,6 @@
 <li>如果想要看排行榜找片子看，使用<a href="https://www.pianku.tv/mv/----iscore--1.html">片库</a>进行IMDB搜索着看；音乐的话上<a href="https://music.douban.com/annual/2020?source=web_music_banner">豆瓣音乐榜找着看</a>；书的话，先把读书群里的那些看完，专业性的书籍直接知乎找大V推荐的看然后用<a href="https://www.jiumodiary.com/">鸠摩搜书</a>搞定资源</li>
 <li>如果朋友推荐的片子在No视频和片库都没有片源，再去<a href="https://search.douban.com/movie/subject_search?search_text=%E7%BA%B8%E7%89%8C%E5%B1%8B&amp;cat=1002%E7%BA%B8%E7%89%8C%E5%B1%8B">豆瓣</a>里面搜索，使用<a href="https://www.cupfox.com/">茶杯狐</a>和豆瓣资源搜索大师的插件找到相应资源</li>
 </ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ShineX's Phone]]></title>
-        <id>https://shinexsx.github.io/post/shinexs-phone/</id>
-        <link href="https://shinexsx.github.io/post/shinexs-phone/">
-        </link>
-        <updated>2021-02-06T15:40:56.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="app布局">APP布局</h1>
-<figure data-type="image" tabindex="1"><img src="https://gitee.com/shinexsx/pic/raw/master/20210206234036.jpg" alt="布局图片" loading="lazy"></figure>
-<h1 id="全屏手势">全屏手势</h1>
-<p>熟练使用全屏手势而非虚拟按键，在主页面想要切到多任务窗口时，上划一段距离(至夸克浏览器的中部)后按住暂停即可，不要过渡上划。</p>
-<h1 id="快捷手势">快捷手势</h1>
-<ul>
-<li>三指截屏</li>
-<li>翻转静音抬起接听</li>
-<li>双击亮屏双击熄屏</li>
-<li>按住指纹按钮可进微信扫一扫等</li>
-<li>黑屏双指||暂停播放，&gt;下一首，&lt;上一首</li>
-</ul>
-<h1 id="关于负一屏">关于负一屏</h1>
-<p>只开便签里面</p>
-<h1 id="通知">通知</h1>
-<p>允许10个资讯APP提供通知服务。</p>
 ]]></content>
     </entry>
     <entry>
